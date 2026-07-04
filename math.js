@@ -4,6 +4,9 @@ function double(n) {
 function square(n) {
   return n * n;
 }
-function isEven(n)
+function isEven(n) {
   return n % 2 === 0;
+}
+funtion isOdd(n)
+  return n % 2 !=== 0;
 }
