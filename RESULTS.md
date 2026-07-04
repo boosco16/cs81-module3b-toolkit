@@ -9,3 +9,6 @@ I tested isEven(8) and isEven(11), and I recieved the output of true for 8, and 
 
 // isOdd(n) 
 I tested isOdd(3) and isOdd(4), and I recived the output of true for 3, and false for 4.
+
+// multiply(a ,b) 
+I tested multiply(2, 4) and I recieved the output of 8, which is accurate.
